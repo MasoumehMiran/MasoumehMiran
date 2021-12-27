@@ -1,0 +1,6 @@
+@import './scss/style';
+body{background: #000}
+
+.MuiListItem-root.Mui-selected, .MuiListItem-root.Mui-selected:hover{
+    background: red;
+}

@@ -1,0 +1,10 @@
+/*# sourceMappingURL=icons.css.map */
+@font-face {
+    font-family: iransans;
+    src: url(../fonts/iransans/IRANSansLight.woff) format("woff"), url(../fonts/iransans/IRANSansLight.ttf) format("truetype");
+    font-weight: 400; }
+  
+  @font-face {
+    font-family: iransans;
+    src: url(../fonts/iransans/IRANSansMedium.woff) format("woff"), url(../fonts/iransans/IRANSansMedium.ttf) format("truetype");
+    font-weight: 700; }
